@@ -1,2 +1,2 @@
 # bsrinivasancbe.github.io
-![Coming Soon Website](ComingSoonWebsite.jpg)
+![Coming Soon Website](/ComingSoonWebsite.jpg)
